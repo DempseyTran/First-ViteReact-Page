@@ -1,0 +1,163 @@
+[
+    {
+        "description": "",
+        "id": 1,
+        "name": "ALAN SCOTT",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AlanScott_5fb82459209669.21120396.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 2,
+        "name": "ALFRED PENNYWORTH",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AlfredPennyworth_5c40ddc7b0e397.70092314.jpg?w=640",
+        "alignment": "Hero",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 3,
+        "name": "AMNDA WALLER",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AmandaWaller_5c40df31e06e32.83836467.jpg?w=640",
+        "alignment": "Neutral",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 4,
+        "name": "AMETHYST",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Amethyst_5c40e299329fa8.64612837.jpg?w=640",
+        "alignment": "Hero",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 5,
+        "name": "ANARKY",
+        "images": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Anarky_56a828beda2873.94689757.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Entity"
+    },
+    {
+        "description": "",
+        "id": 6,
+        "name": "ANTI MONITOR",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AntiMonitor_5df04dc35f66b3.45008668.jpg?w=640",
+        "alignment": "Neutral",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 7,
+        "name": "ANTIOPE",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Antiope_5efcf761a6d6c1.75705997.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 8,
+        "name": "AQUAMAN",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Aquaman_5c411a95e70ff5.50429372.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Entity"
+    },
+    {
+        "description": "",
+        "id": 9,
+        "name": "ARES",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Ares_5c40e61e645bd7.00544343.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 10,
+        "name": "ARSELNAL",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Arsenal_5c4112b0d08271.33719915.jpg?w=640",
+        "alignment": "Hero",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 11,
+        "name": "ATLANNA",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Atlanna_5c411b2c679cb0.01941866.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 12,
+        "name": "ATOM",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Atom_5d7845c24cf931.57331689.jpg?w=640",
+        "alignment": "Neutral",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 13,
+        "name": "ATOM SMASHER",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AtomSmasher_63473c541d1d84.00880415.jpg?w=640",
+        "alignment": "Neutral",
+        "type": "Entity"
+    },
+    {
+        "description": "",
+        "id": 14,
+        "name": "ATROCITUS",
+        "images": "https://static.dc.com/dc/files/default_images/atrocitus_192x291_53c586992f0725.03097814.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 15,
+        "name": "BANE",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Bane_5c410f07428e44.78856363.jpg?w=640",
+        "alignment": "Hero",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 16,
+        "name": "BATGIRL",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batgirl_5c410fd9aa14d0.53215721.jpg?w=640",
+        "alignment": "Neutral",
+        "type": "Team"
+    },
+    {
+        "description": "",
+        "id": 17,
+        "name": "BATMAN",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?w=640",
+        "alignment": "Villain",
+        "type": "Entity"
+    },
+    {
+        "description": "",
+        "id": 18,
+        "name": "BATWOMAN",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batwoman_5c4111746bf769.13954525.jpg?w=640",
+        "alignment": "Hero",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 19,
+        "name": "BEAST BOY",
+        "images": "",
+        "alignment": "Hero",
+        "type": "Individual"
+    },
+    {
+        "description": "",
+        "id": 20,
+        "name": "BIG BARDA",
+        "images": "",
+        "alignment": "Neutral",
+        "type": "Individual"
+    }
+
+]

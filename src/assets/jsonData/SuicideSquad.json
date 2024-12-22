@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "https://static.dc.com/2024-02/car_ssktjl_solo_harley_9x16.jpg?w=384",
+    "name": "HARLEY QUINN"
+  },
+  {
+    "id": 2,
+    "image": "https://static.dc.com/2024-02/car_ssktjl_solo_boomer_9x16.jpg?w=384",
+    "name": "CAPTAIN BOOMERANG"
+
+  },
+  {
+    "id": 3,
+    "image": "https://static.dc.com/2024-02/car_ssktjl_solo_deadshot_9x16.jpg?w=384",
+    "name": "DEADSHOT"
+  },
+  {
+    "id": 4,
+    "image": "https://static.dc.com/2024-02/car_ssktjl_solo_shark_9x16.jpg?w=384",
+    "name": "KING SHARK"
+  }
+]

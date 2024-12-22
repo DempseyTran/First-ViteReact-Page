@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 
+}
+/* Import font files */
+@font-face {
+    font-family: 'Greta Semi';
+    src: url('../public/Fonts/GretaSansCondensedStd-SemiBold.ef1a1940.woff2') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Greta Medium';
+    src: url('../public/Fonts/GretaSansStd-Medium.91d415e7.woff2') format('truetype');
+
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Greta Bold';
+    src: url('../public/Fonts/GretaSansCondensedStd-Bold.a0a8ea6d.woff2') format('truetype');
+
+    font-weight: normal;
+    font-style: italic;
+  }
+  
+  /* Set default font for the entire app */
+  body {
+    font-family: 'GretaMedium', sans-serif; /* Default font */
+  }
+  

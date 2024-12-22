@@ -1,0 +1,63 @@
+.swiper {
+    width: full;
+    height: auto;
+}
+.swiper-pagination {
+    position: absolute;
+    transform: translateY(-15px);
+}
+ /* Tùy chỉnh từng dot */
+  .swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    border-radius: 50%;
+    opacity: 0.6;
+    transition: all 0.3s ease-in-out;
+  }
+  
+
+  .swiper-pagination-bullet-active {
+    background-color: #fff;
+    opacity: 1;
+  }
+
+//Css cho mũi tên
+.swiper-button-prev::before,
+.swiper-button-next::before {
+  font-size: 10px; /* Giảm kích thước mũi tên */
+}
+.swiper-button-prev,
+.swiper-button-next {
+  color: blue;
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
+  scale:0.4;
+  transform:translateY(0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+}
+
+
+.swiper-button-prev {
+  left: 30px; 
+}
+.swiper-button-next {
+  right: 30px; /* Cách mép phải 10px */
+}
+.swiper-button-prev,
+.swiper-button-next {
+  opacity: 1;
+  transition: opacity 0.3s, transform 0.3s ease-in-out;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  opacity: 1;
+  transform: scale(1.2);
+
+}

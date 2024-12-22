@@ -1,0 +1,2719 @@
+[
+  {
+      "id": 1,
+      "name": "Ra's al Ghul #1",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Ra's+al+Ghul",
+          "md": "https://via.placeholder.com/200?text=Ra's+al+Ghul",
+          "lg": "https://via.placeholder.com/300?text=Ra's+al+Ghul"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 2,
+      "name": "Robin #2",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Robin",
+          "md": "https://via.placeholder.com/200?text=Robin",
+          "lg": "https://via.placeholder.com/300?text=Robin"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 3,
+      "name": "Batgirl #3",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Batgirl",
+          "md": "https://via.placeholder.com/200?text=Batgirl",
+          "lg": "https://via.placeholder.com/300?text=Batgirl"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 4,
+      "name": "Etrigan #4",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Etrigan",
+          "md": "https://via.placeholder.com/200?text=Etrigan",
+          "lg": "https://via.placeholder.com/300?text=Etrigan"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 5,
+      "name": "John Constantine #5",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=John+Constantine",
+          "md": "https://via.placeholder.com/200?text=John+Constantine",
+          "lg": "https://via.placeholder.com/300?text=John+Constantine"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 6,
+      "name": "The Joker #6",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=The+Joker",
+          "md": "https://via.placeholder.com/200?text=The+Joker",
+          "lg": "https://via.placeholder.com/300?text=The+Joker"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 7,
+      "name": "Catwoman #7",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Catwoman",
+          "md": "https://via.placeholder.com/200?text=Catwoman",
+          "lg": "https://via.placeholder.com/300?text=Catwoman"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 8,
+      "name": "Saint Walker #8",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Saint+Walker",
+          "md": "https://via.placeholder.com/200?text=Saint+Walker",
+          "lg": "https://via.placeholder.com/300?text=Saint+Walker"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 9,
+      "name": "Dr. Fate #9",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Dr.+Fate",
+          "md": "https://via.placeholder.com/200?text=Dr.+Fate",
+          "lg": "https://via.placeholder.com/300?text=Dr.+Fate"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 10,
+      "name": "Deathstroke #10",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Deathstroke",
+          "md": "https://via.placeholder.com/200?text=Deathstroke",
+          "lg": "https://via.placeholder.com/300?text=Deathstroke"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 11,
+      "name": "Hawkgirl #11",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Hawkgirl",
+          "md": "https://via.placeholder.com/200?text=Hawkgirl",
+          "lg": "https://via.placeholder.com/300?text=Hawkgirl"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 12,
+      "name": "Green Arrow #12",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 13,
+      "name": "Red Hood #13",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 14,
+      "name": "Mr. Freeze #14",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Mr.+Freeze",
+          "md": "https://via.placeholder.com/200?text=Mr.+Freeze",
+          "lg": "https://via.placeholder.com/300?text=Mr.+Freeze"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 15,
+      "name": "Vixen #15",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vixen",
+          "md": "https://via.placeholder.com/200?text=Vixen",
+          "lg": "https://via.placeholder.com/300?text=Vixen"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 16,
+      "name": "Clayface #16",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Clayface",
+          "md": "https://via.placeholder.com/200?text=Clayface",
+          "lg": "https://via.placeholder.com/300?text=Clayface"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 17,
+      "name": "Spectre #17",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Spectre",
+          "md": "https://via.placeholder.com/200?text=Spectre",
+          "lg": "https://via.placeholder.com/300?text=Spectre"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 18,
+      "name": "Poison Ivy #18",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 19,
+      "name": "John Constantine #19",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=John+Constantine",
+          "md": "https://via.placeholder.com/200?text=John+Constantine",
+          "lg": "https://via.placeholder.com/300?text=John+Constantine"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 20,
+      "name": "Vixen #20",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vixen",
+          "md": "https://via.placeholder.com/200?text=Vixen",
+          "lg": "https://via.placeholder.com/300?text=Vixen"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 21,
+      "name": "Poison Ivy #21",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 22,
+      "name": "Catwoman #22",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Catwoman",
+          "md": "https://via.placeholder.com/200?text=Catwoman",
+          "lg": "https://via.placeholder.com/300?text=Catwoman"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 23,
+      "name": "Ra's al Ghul #23",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Ra's+al+Ghul",
+          "md": "https://via.placeholder.com/200?text=Ra's+al+Ghul",
+          "lg": "https://via.placeholder.com/300?text=Ra's+al+Ghul"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 24,
+      "name": "Reverse Flash #24",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Reverse+Flash",
+          "md": "https://via.placeholder.com/200?text=Reverse+Flash",
+          "lg": "https://via.placeholder.com/300?text=Reverse+Flash"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 25,
+      "name": "Blue Beetle #25",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Blue+Beetle",
+          "md": "https://via.placeholder.com/200?text=Blue+Beetle",
+          "lg": "https://via.placeholder.com/300?text=Blue+Beetle"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 26,
+      "name": "Vixen #26",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vixen",
+          "md": "https://via.placeholder.com/200?text=Vixen",
+          "lg": "https://via.placeholder.com/300?text=Vixen"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 27,
+      "name": "Wonder Woman #27",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Wonder+Woman",
+          "md": "https://via.placeholder.com/200?text=Wonder+Woman",
+          "lg": "https://via.placeholder.com/300?text=Wonder+Woman"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 28,
+      "name": "Martian Manhunter #28",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Martian+Manhunter",
+          "md": "https://via.placeholder.com/200?text=Martian+Manhunter",
+          "lg": "https://via.placeholder.com/300?text=Martian+Manhunter"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 29,
+      "name": "Red Hood #29",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 30,
+      "name": "Catwoman #30",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Catwoman",
+          "md": "https://via.placeholder.com/200?text=Catwoman",
+          "lg": "https://via.placeholder.com/300?text=Catwoman"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 31,
+      "name": "Wonder Woman #31",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Wonder+Woman",
+          "md": "https://via.placeholder.com/200?text=Wonder+Woman",
+          "lg": "https://via.placeholder.com/300?text=Wonder+Woman"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 32,
+      "name": "Clayface #32",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Clayface",
+          "md": "https://via.placeholder.com/200?text=Clayface",
+          "lg": "https://via.placeholder.com/300?text=Clayface"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 33,
+      "name": "Wonder Woman #33",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Wonder+Woman",
+          "md": "https://via.placeholder.com/200?text=Wonder+Woman",
+          "lg": "https://via.placeholder.com/300?text=Wonder+Woman"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 34,
+      "name": "Saint Walker #34",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Saint+Walker",
+          "md": "https://via.placeholder.com/200?text=Saint+Walker",
+          "lg": "https://via.placeholder.com/300?text=Saint+Walker"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 35,
+      "name": "Raven #35",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Raven",
+          "md": "https://via.placeholder.com/200?text=Raven",
+          "lg": "https://via.placeholder.com/300?text=Raven"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 36,
+      "name": "Mr. Freeze #36",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Mr.+Freeze",
+          "md": "https://via.placeholder.com/200?text=Mr.+Freeze",
+          "lg": "https://via.placeholder.com/300?text=Mr.+Freeze"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 37,
+      "name": "John Constantine #37",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=John+Constantine",
+          "md": "https://via.placeholder.com/200?text=John+Constantine",
+          "lg": "https://via.placeholder.com/300?text=John+Constantine"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 38,
+      "name": "Red Hood #38",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 39,
+      "name": "Shazam #39",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Shazam",
+          "md": "https://via.placeholder.com/200?text=Shazam",
+          "lg": "https://via.placeholder.com/300?text=Shazam"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 40,
+      "name": "Darkseid #40",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Darkseid",
+          "md": "https://via.placeholder.com/200?text=Darkseid",
+          "lg": "https://via.placeholder.com/300?text=Darkseid"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 41,
+      "name": "Firestorm #41",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Firestorm",
+          "md": "https://via.placeholder.com/200?text=Firestorm",
+          "lg": "https://via.placeholder.com/300?text=Firestorm"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 42,
+      "name": "Starfire #42",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Starfire",
+          "md": "https://via.placeholder.com/200?text=Starfire",
+          "lg": "https://via.placeholder.com/300?text=Starfire"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 43,
+      "name": "Firestorm #43",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Firestorm",
+          "md": "https://via.placeholder.com/200?text=Firestorm",
+          "lg": "https://via.placeholder.com/300?text=Firestorm"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 44,
+      "name": "Swamp Thing #44",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Swamp+Thing",
+          "md": "https://via.placeholder.com/200?text=Swamp+Thing",
+          "lg": "https://via.placeholder.com/300?text=Swamp+Thing"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 45,
+      "name": "Hawkgirl #45",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Hawkgirl",
+          "md": "https://via.placeholder.com/200?text=Hawkgirl",
+          "lg": "https://via.placeholder.com/300?text=Hawkgirl"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 46,
+      "name": "Batman #46",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Batman",
+          "md": "https://via.placeholder.com/200?text=Batman",
+          "lg": "https://via.placeholder.com/300?text=Batman"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 47,
+      "name": "Mr. Freeze #47",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Mr.+Freeze",
+          "md": "https://via.placeholder.com/200?text=Mr.+Freeze",
+          "lg": "https://via.placeholder.com/300?text=Mr.+Freeze"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 48,
+      "name": "Batgirl #48",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Batgirl",
+          "md": "https://via.placeholder.com/200?text=Batgirl",
+          "lg": "https://via.placeholder.com/300?text=Batgirl"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 49,
+      "name": "Blue Beetle #49",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Blue+Beetle",
+          "md": "https://via.placeholder.com/200?text=Blue+Beetle",
+          "lg": "https://via.placeholder.com/300?text=Blue+Beetle"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 50,
+      "name": "Mr. Freeze #50",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Mr.+Freeze",
+          "md": "https://via.placeholder.com/200?text=Mr.+Freeze",
+          "lg": "https://via.placeholder.com/300?text=Mr.+Freeze"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 51,
+      "name": "Zatanna #51",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Zatanna",
+          "md": "https://via.placeholder.com/200?text=Zatanna",
+          "lg": "https://via.placeholder.com/300?text=Zatanna"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 52,
+      "name": "Poison Ivy #52",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 53,
+      "name": "Dr. Fate #53",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Dr.+Fate",
+          "md": "https://via.placeholder.com/200?text=Dr.+Fate",
+          "lg": "https://via.placeholder.com/300?text=Dr.+Fate"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 54,
+      "name": "Catwoman #54",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Catwoman",
+          "md": "https://via.placeholder.com/200?text=Catwoman",
+          "lg": "https://via.placeholder.com/300?text=Catwoman"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 55,
+      "name": "Huntress #55",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Huntress",
+          "md": "https://via.placeholder.com/200?text=Huntress",
+          "lg": "https://via.placeholder.com/300?text=Huntress"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 56,
+      "name": "Riddler #56",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Riddler",
+          "md": "https://via.placeholder.com/200?text=Riddler",
+          "lg": "https://via.placeholder.com/300?text=Riddler"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 57,
+      "name": "Nightwing #57",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Nightwing",
+          "md": "https://via.placeholder.com/200?text=Nightwing",
+          "lg": "https://via.placeholder.com/300?text=Nightwing"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 58,
+      "name": "Clayface #58",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Clayface",
+          "md": "https://via.placeholder.com/200?text=Clayface",
+          "lg": "https://via.placeholder.com/300?text=Clayface"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 59,
+      "name": "Reverse Flash #59",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Reverse+Flash",
+          "md": "https://via.placeholder.com/200?text=Reverse+Flash",
+          "lg": "https://via.placeholder.com/300?text=Reverse+Flash"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 60,
+      "name": "Starfire #60",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Starfire",
+          "md": "https://via.placeholder.com/200?text=Starfire",
+          "lg": "https://via.placeholder.com/300?text=Starfire"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 61,
+      "name": "Black Lightning #61",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Lightning",
+          "md": "https://via.placeholder.com/200?text=Black+Lightning",
+          "lg": "https://via.placeholder.com/300?text=Black+Lightning"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 62,
+      "name": "Parallax #62",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Parallax",
+          "md": "https://via.placeholder.com/200?text=Parallax",
+          "lg": "https://via.placeholder.com/300?text=Parallax"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 63,
+      "name": "Vandal Savage #63",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vandal+Savage",
+          "md": "https://via.placeholder.com/200?text=Vandal+Savage",
+          "lg": "https://via.placeholder.com/300?text=Vandal+Savage"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 64,
+      "name": "Huntress #64",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Huntress",
+          "md": "https://via.placeholder.com/200?text=Huntress",
+          "lg": "https://via.placeholder.com/300?text=Huntress"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 65,
+      "name": "Parallax #65",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Parallax",
+          "md": "https://via.placeholder.com/200?text=Parallax",
+          "lg": "https://via.placeholder.com/300?text=Parallax"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 66,
+      "name": "Raven #66",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Raven",
+          "md": "https://via.placeholder.com/200?text=Raven",
+          "lg": "https://via.placeholder.com/300?text=Raven"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 67,
+      "name": "Black Canary #67",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Canary",
+          "md": "https://via.placeholder.com/200?text=Black+Canary",
+          "lg": "https://via.placeholder.com/300?text=Black+Canary"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 68,
+      "name": "Robin #68",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Robin",
+          "md": "https://via.placeholder.com/200?text=Robin",
+          "lg": "https://via.placeholder.com/300?text=Robin"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 69,
+      "name": "Booster Gold #69",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Booster+Gold",
+          "md": "https://via.placeholder.com/200?text=Booster+Gold",
+          "lg": "https://via.placeholder.com/300?text=Booster+Gold"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 70,
+      "name": "Harley Quinn #70",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Harley+Quinn",
+          "md": "https://via.placeholder.com/200?text=Harley+Quinn",
+          "lg": "https://via.placeholder.com/300?text=Harley+Quinn"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 71,
+      "name": "Raven #71",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Raven",
+          "md": "https://via.placeholder.com/200?text=Raven",
+          "lg": "https://via.placeholder.com/300?text=Raven"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 72,
+      "name": "Aquaman #72",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Aquaman",
+          "md": "https://via.placeholder.com/200?text=Aquaman",
+          "lg": "https://via.placeholder.com/300?text=Aquaman"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 73,
+      "name": "Firestorm #73",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Firestorm",
+          "md": "https://via.placeholder.com/200?text=Firestorm",
+          "lg": "https://via.placeholder.com/300?text=Firestorm"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 74,
+      "name": "Static Shock #74",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Static+Shock",
+          "md": "https://via.placeholder.com/200?text=Static+Shock",
+          "lg": "https://via.placeholder.com/300?text=Static+Shock"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 75,
+      "name": "John Constantine #75",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=John+Constantine",
+          "md": "https://via.placeholder.com/200?text=John+Constantine",
+          "lg": "https://via.placeholder.com/300?text=John+Constantine"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 76,
+      "name": "Deadshot #76",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Deadshot",
+          "md": "https://via.placeholder.com/200?text=Deadshot",
+          "lg": "https://via.placeholder.com/300?text=Deadshot"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 77,
+      "name": "Spectre #77",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Spectre",
+          "md": "https://via.placeholder.com/200?text=Spectre",
+          "lg": "https://via.placeholder.com/300?text=Spectre"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 78,
+      "name": "Kilowog #78",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Kilowog",
+          "md": "https://via.placeholder.com/200?text=Kilowog",
+          "lg": "https://via.placeholder.com/300?text=Kilowog"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 79,
+      "name": "Darkseid #79",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Darkseid",
+          "md": "https://via.placeholder.com/200?text=Darkseid",
+          "lg": "https://via.placeholder.com/300?text=Darkseid"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 80,
+      "name": "Cyborg #80",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Cyborg",
+          "md": "https://via.placeholder.com/200?text=Cyborg",
+          "lg": "https://via.placeholder.com/300?text=Cyborg"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 81,
+      "name": "Captain Cold #81",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Captain+Cold",
+          "md": "https://via.placeholder.com/200?text=Captain+Cold",
+          "lg": "https://via.placeholder.com/300?text=Captain+Cold"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 82,
+      "name": "Saint Walker #82",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Saint+Walker",
+          "md": "https://via.placeholder.com/200?text=Saint+Walker",
+          "lg": "https://via.placeholder.com/300?text=Saint+Walker"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 83,
+      "name": "Two-Face #83",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Two-Face",
+          "md": "https://via.placeholder.com/200?text=Two-Face",
+          "lg": "https://via.placeholder.com/300?text=Two-Face"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 84,
+      "name": "Larfleeze #84",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Larfleeze",
+          "md": "https://via.placeholder.com/200?text=Larfleeze",
+          "lg": "https://via.placeholder.com/300?text=Larfleeze"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 85,
+      "name": "Dr. Fate #85",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Dr.+Fate",
+          "md": "https://via.placeholder.com/200?text=Dr.+Fate",
+          "lg": "https://via.placeholder.com/300?text=Dr.+Fate"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 86,
+      "name": "Green Lantern #86",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Lantern",
+          "md": "https://via.placeholder.com/200?text=Green+Lantern",
+          "lg": "https://via.placeholder.com/300?text=Green+Lantern"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 87,
+      "name": "Green Arrow #87",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 88,
+      "name": "Green Arrow #88",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 89,
+      "name": "Red Hood #89",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 90,
+      "name": "Black Canary #90",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Canary",
+          "md": "https://via.placeholder.com/200?text=Black+Canary",
+          "lg": "https://via.placeholder.com/300?text=Black+Canary"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 91,
+      "name": "The Joker #91",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=The+Joker",
+          "md": "https://via.placeholder.com/200?text=The+Joker",
+          "lg": "https://via.placeholder.com/300?text=The+Joker"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 92,
+      "name": "Black Lightning #92",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Lightning",
+          "md": "https://via.placeholder.com/200?text=Black+Lightning",
+          "lg": "https://via.placeholder.com/300?text=Black+Lightning"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 93,
+      "name": "Black Lightning #93",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Lightning",
+          "md": "https://via.placeholder.com/200?text=Black+Lightning",
+          "lg": "https://via.placeholder.com/300?text=Black+Lightning"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 94,
+      "name": "Aquaman #94",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Aquaman",
+          "md": "https://via.placeholder.com/200?text=Aquaman",
+          "lg": "https://via.placeholder.com/300?text=Aquaman"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 95,
+      "name": "Atrocitus #95",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Atrocitus",
+          "md": "https://via.placeholder.com/200?text=Atrocitus",
+          "lg": "https://via.placeholder.com/300?text=Atrocitus"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 96,
+      "name": "Bane #96",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Bane",
+          "md": "https://via.placeholder.com/200?text=Bane",
+          "lg": "https://via.placeholder.com/300?text=Bane"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 97,
+      "name": "Penguin #97",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Penguin",
+          "md": "https://via.placeholder.com/200?text=Penguin",
+          "lg": "https://via.placeholder.com/300?text=Penguin"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 98,
+      "name": "Superman #98",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Superman",
+          "md": "https://via.placeholder.com/200?text=Superman",
+          "lg": "https://via.placeholder.com/300?text=Superman"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 99,
+      "name": "Batman #99",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Batman",
+          "md": "https://via.placeholder.com/200?text=Batman",
+          "lg": "https://via.placeholder.com/300?text=Batman"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 100,
+      "name": "Ra's al Ghul #100",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Ra's+al+Ghul",
+          "md": "https://via.placeholder.com/200?text=Ra's+al+Ghul",
+          "lg": "https://via.placeholder.com/300?text=Ra's+al+Ghul"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 101,
+      "name": "Zatanna #101",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Zatanna",
+          "md": "https://via.placeholder.com/200?text=Zatanna",
+          "lg": "https://via.placeholder.com/300?text=Zatanna"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 102,
+      "name": "Aquaman #102",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Aquaman",
+          "md": "https://via.placeholder.com/200?text=Aquaman",
+          "lg": "https://via.placeholder.com/300?text=Aquaman"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 103,
+      "name": "Black Canary #103",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Canary",
+          "md": "https://via.placeholder.com/200?text=Black+Canary",
+          "lg": "https://via.placeholder.com/300?text=Black+Canary"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 104,
+      "name": "Vixen #104",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vixen",
+          "md": "https://via.placeholder.com/200?text=Vixen",
+          "lg": "https://via.placeholder.com/300?text=Vixen"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 105,
+      "name": "Lex Luthor #105",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Lex+Luthor",
+          "md": "https://via.placeholder.com/200?text=Lex+Luthor",
+          "lg": "https://via.placeholder.com/300?text=Lex+Luthor"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 106,
+      "name": "Green Arrow #106",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 107,
+      "name": "Wonder Woman #107",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Wonder+Woman",
+          "md": "https://via.placeholder.com/200?text=Wonder+Woman",
+          "lg": "https://via.placeholder.com/300?text=Wonder+Woman"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 108,
+      "name": "Penguin #108",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Penguin",
+          "md": "https://via.placeholder.com/200?text=Penguin",
+          "lg": "https://via.placeholder.com/300?text=Penguin"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 109,
+      "name": "Kilowog #109",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Kilowog",
+          "md": "https://via.placeholder.com/200?text=Kilowog",
+          "lg": "https://via.placeholder.com/300?text=Kilowog"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 110,
+      "name": "Amanda Waller #110",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Amanda+Waller",
+          "md": "https://via.placeholder.com/200?text=Amanda+Waller",
+          "lg": "https://via.placeholder.com/300?text=Amanda+Waller"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 111,
+      "name": "Red Hood #111",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 112,
+      "name": "Riddler #112",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Riddler",
+          "md": "https://via.placeholder.com/200?text=Riddler",
+          "lg": "https://via.placeholder.com/300?text=Riddler"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 113,
+      "name": "Amanda Waller #113",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Amanda+Waller",
+          "md": "https://via.placeholder.com/200?text=Amanda+Waller",
+          "lg": "https://via.placeholder.com/300?text=Amanda+Waller"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 114,
+      "name": "Oracle #114",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Oracle",
+          "md": "https://via.placeholder.com/200?text=Oracle",
+          "lg": "https://via.placeholder.com/300?text=Oracle"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 115,
+      "name": "Bane #115",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Bane",
+          "md": "https://via.placeholder.com/200?text=Bane",
+          "lg": "https://via.placeholder.com/300?text=Bane"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 116,
+      "name": "Vixen #116",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vixen",
+          "md": "https://via.placeholder.com/200?text=Vixen",
+          "lg": "https://via.placeholder.com/300?text=Vixen"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 117,
+      "name": "Nightwing #117",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Nightwing",
+          "md": "https://via.placeholder.com/200?text=Nightwing",
+          "lg": "https://via.placeholder.com/300?text=Nightwing"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 118,
+      "name": "Batgirl #118",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Batgirl",
+          "md": "https://via.placeholder.com/200?text=Batgirl",
+          "lg": "https://via.placeholder.com/300?text=Batgirl"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 119,
+      "name": "Etrigan #119",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Etrigan",
+          "md": "https://via.placeholder.com/200?text=Etrigan",
+          "lg": "https://via.placeholder.com/300?text=Etrigan"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 120,
+      "name": "Red Hood #120",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 121,
+      "name": "Harley Quinn #121",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Harley+Quinn",
+          "md": "https://via.placeholder.com/200?text=Harley+Quinn",
+          "lg": "https://via.placeholder.com/300?text=Harley+Quinn"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 122,
+      "name": "Poison Ivy #122",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 123,
+      "name": "Shazam #123",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Shazam",
+          "md": "https://via.placeholder.com/200?text=Shazam",
+          "lg": "https://via.placeholder.com/300?text=Shazam"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 124,
+      "name": "Reverse Flash #124",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Reverse+Flash",
+          "md": "https://via.placeholder.com/200?text=Reverse+Flash",
+          "lg": "https://via.placeholder.com/300?text=Reverse+Flash"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 125,
+      "name": "Bane #125",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Bane",
+          "md": "https://via.placeholder.com/200?text=Bane",
+          "lg": "https://via.placeholder.com/300?text=Bane"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 126,
+      "name": "Two-Face #126",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Two-Face",
+          "md": "https://via.placeholder.com/200?text=Two-Face",
+          "lg": "https://via.placeholder.com/300?text=Two-Face"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 127,
+      "name": "Darkseid #127",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Darkseid",
+          "md": "https://via.placeholder.com/200?text=Darkseid",
+          "lg": "https://via.placeholder.com/300?text=Darkseid"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 128,
+      "name": "Bane #128",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Bane",
+          "md": "https://via.placeholder.com/200?text=Bane",
+          "lg": "https://via.placeholder.com/300?text=Bane"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 129,
+      "name": "Deadshot #129",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Deadshot",
+          "md": "https://via.placeholder.com/200?text=Deadshot",
+          "lg": "https://via.placeholder.com/300?text=Deadshot"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 130,
+      "name": "Green Arrow #130",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 131,
+      "name": "Hawkgirl #131",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Hawkgirl",
+          "md": "https://via.placeholder.com/200?text=Hawkgirl",
+          "lg": "https://via.placeholder.com/300?text=Hawkgirl"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 132,
+      "name": "Swamp Thing #132",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Swamp+Thing",
+          "md": "https://via.placeholder.com/200?text=Swamp+Thing",
+          "lg": "https://via.placeholder.com/300?text=Swamp+Thing"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 133,
+      "name": "Martian Manhunter #133",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Martian+Manhunter",
+          "md": "https://via.placeholder.com/200?text=Martian+Manhunter",
+          "lg": "https://via.placeholder.com/300?text=Martian+Manhunter"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 134,
+      "name": "Static Shock #134",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Static+Shock",
+          "md": "https://via.placeholder.com/200?text=Static+Shock",
+          "lg": "https://via.placeholder.com/300?text=Static+Shock"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 135,
+      "name": "Captain Cold #135",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Captain+Cold",
+          "md": "https://via.placeholder.com/200?text=Captain+Cold",
+          "lg": "https://via.placeholder.com/300?text=Captain+Cold"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 136,
+      "name": "Atom #136",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Atom",
+          "md": "https://via.placeholder.com/200?text=Atom",
+          "lg": "https://via.placeholder.com/300?text=Atom"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 137,
+      "name": "Superman #137",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Superman",
+          "md": "https://via.placeholder.com/200?text=Superman",
+          "lg": "https://via.placeholder.com/300?text=Superman"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 138,
+      "name": "John Constantine #138",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=John+Constantine",
+          "md": "https://via.placeholder.com/200?text=John+Constantine",
+          "lg": "https://via.placeholder.com/300?text=John+Constantine"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 139,
+      "name": "Black Adam #139",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Adam",
+          "md": "https://via.placeholder.com/200?text=Black+Adam",
+          "lg": "https://via.placeholder.com/300?text=Black+Adam"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 140,
+      "name": "Vandal Savage #140",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vandal+Savage",
+          "md": "https://via.placeholder.com/200?text=Vandal+Savage",
+          "lg": "https://via.placeholder.com/300?text=Vandal+Savage"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 141,
+      "name": "Lex Luthor #141",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Lex+Luthor",
+          "md": "https://via.placeholder.com/200?text=Lex+Luthor",
+          "lg": "https://via.placeholder.com/300?text=Lex+Luthor"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 142,
+      "name": "Riddler #142",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Riddler",
+          "md": "https://via.placeholder.com/200?text=Riddler",
+          "lg": "https://via.placeholder.com/300?text=Riddler"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 143,
+      "name": "Plastic Man #143",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Plastic+Man",
+          "md": "https://via.placeholder.com/200?text=Plastic+Man",
+          "lg": "https://via.placeholder.com/300?text=Plastic+Man"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 144,
+      "name": "Robin #144",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Robin",
+          "md": "https://via.placeholder.com/200?text=Robin",
+          "lg": "https://via.placeholder.com/300?text=Robin"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 145,
+      "name": "Penguin #145",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Penguin",
+          "md": "https://via.placeholder.com/200?text=Penguin",
+          "lg": "https://via.placeholder.com/300?text=Penguin"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 146,
+      "name": "Supergirl #146",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Supergirl",
+          "md": "https://via.placeholder.com/200?text=Supergirl",
+          "lg": "https://via.placeholder.com/300?text=Supergirl"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 147,
+      "name": "Red Hood #147",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 148,
+      "name": "Scarecrow #148",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Scarecrow",
+          "md": "https://via.placeholder.com/200?text=Scarecrow",
+          "lg": "https://via.placeholder.com/300?text=Scarecrow"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 149,
+      "name": "Amanda Waller #149",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Amanda+Waller",
+          "md": "https://via.placeholder.com/200?text=Amanda+Waller",
+          "lg": "https://via.placeholder.com/300?text=Amanda+Waller"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 150,
+      "name": "Oracle #150",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Oracle",
+          "md": "https://via.placeholder.com/200?text=Oracle",
+          "lg": "https://via.placeholder.com/300?text=Oracle"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 151,
+      "name": "Zatanna #151",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Zatanna",
+          "md": "https://via.placeholder.com/200?text=Zatanna",
+          "lg": "https://via.placeholder.com/300?text=Zatanna"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 152,
+      "name": "Green Arrow #152",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 153,
+      "name": "Blue Beetle #153",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Blue+Beetle",
+          "md": "https://via.placeholder.com/200?text=Blue+Beetle",
+          "lg": "https://via.placeholder.com/300?text=Blue+Beetle"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 154,
+      "name": "Scarecrow #154",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Scarecrow",
+          "md": "https://via.placeholder.com/200?text=Scarecrow",
+          "lg": "https://via.placeholder.com/300?text=Scarecrow"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 155,
+      "name": "Firestorm #155",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Firestorm",
+          "md": "https://via.placeholder.com/200?text=Firestorm",
+          "lg": "https://via.placeholder.com/300?text=Firestorm"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 156,
+      "name": "Clayface #156",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Clayface",
+          "md": "https://via.placeholder.com/200?text=Clayface",
+          "lg": "https://via.placeholder.com/300?text=Clayface"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 157,
+      "name": "Hawkman #157",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Hawkman",
+          "md": "https://via.placeholder.com/200?text=Hawkman",
+          "lg": "https://via.placeholder.com/300?text=Hawkman"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 158,
+      "name": "Black Lightning #158",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Lightning",
+          "md": "https://via.placeholder.com/200?text=Black+Lightning",
+          "lg": "https://via.placeholder.com/300?text=Black+Lightning"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 159,
+      "name": "Black Adam #159",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Adam",
+          "md": "https://via.placeholder.com/200?text=Black+Adam",
+          "lg": "https://via.placeholder.com/300?text=Black+Adam"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 160,
+      "name": "Cyborg #160",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Cyborg",
+          "md": "https://via.placeholder.com/200?text=Cyborg",
+          "lg": "https://via.placeholder.com/300?text=Cyborg"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 161,
+      "name": "Vandal Savage #161",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vandal+Savage",
+          "md": "https://via.placeholder.com/200?text=Vandal+Savage",
+          "lg": "https://via.placeholder.com/300?text=Vandal+Savage"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 162,
+      "name": "Spectre #162",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Spectre",
+          "md": "https://via.placeholder.com/200?text=Spectre",
+          "lg": "https://via.placeholder.com/300?text=Spectre"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 163,
+      "name": "Red Hood #163",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Hood",
+          "md": "https://via.placeholder.com/200?text=Red+Hood",
+          "lg": "https://via.placeholder.com/300?text=Red+Hood"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 164,
+      "name": "Wonder Woman #164",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Wonder+Woman",
+          "md": "https://via.placeholder.com/200?text=Wonder+Woman",
+          "lg": "https://via.placeholder.com/300?text=Wonder+Woman"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 165,
+      "name": "Superman #165",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Superman",
+          "md": "https://via.placeholder.com/200?text=Superman",
+          "lg": "https://via.placeholder.com/300?text=Superman"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 166,
+      "name": "Hawkgirl #166",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Hawkgirl",
+          "md": "https://via.placeholder.com/200?text=Hawkgirl",
+          "lg": "https://via.placeholder.com/300?text=Hawkgirl"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 167,
+      "name": "Oracle #167",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Oracle",
+          "md": "https://via.placeholder.com/200?text=Oracle",
+          "lg": "https://via.placeholder.com/300?text=Oracle"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 168,
+      "name": "Deathstroke #168",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Deathstroke",
+          "md": "https://via.placeholder.com/200?text=Deathstroke",
+          "lg": "https://via.placeholder.com/300?text=Deathstroke"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 169,
+      "name": "Vandal Savage #169",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vandal+Savage",
+          "md": "https://via.placeholder.com/200?text=Vandal+Savage",
+          "lg": "https://via.placeholder.com/300?text=Vandal+Savage"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 170,
+      "name": "Aquaman #170",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Aquaman",
+          "md": "https://via.placeholder.com/200?text=Aquaman",
+          "lg": "https://via.placeholder.com/300?text=Aquaman"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 171,
+      "name": "Oracle #171",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Oracle",
+          "md": "https://via.placeholder.com/200?text=Oracle",
+          "lg": "https://via.placeholder.com/300?text=Oracle"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 172,
+      "name": "Static Shock #172",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Static+Shock",
+          "md": "https://via.placeholder.com/200?text=Static+Shock",
+          "lg": "https://via.placeholder.com/300?text=Static+Shock"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 173,
+      "name": "Atrocitus #173",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Atrocitus",
+          "md": "https://via.placeholder.com/200?text=Atrocitus",
+          "lg": "https://via.placeholder.com/300?text=Atrocitus"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 174,
+      "name": "Bane #174",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Bane",
+          "md": "https://via.placeholder.com/200?text=Bane",
+          "lg": "https://via.placeholder.com/300?text=Bane"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 175,
+      "name": "Beast Boy #175",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Beast+Boy",
+          "md": "https://via.placeholder.com/200?text=Beast+Boy",
+          "lg": "https://via.placeholder.com/300?text=Beast+Boy"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 176,
+      "name": "Penguin #176",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Penguin",
+          "md": "https://via.placeholder.com/200?text=Penguin",
+          "lg": "https://via.placeholder.com/300?text=Penguin"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 177,
+      "name": "Cyborg #177",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Cyborg",
+          "md": "https://via.placeholder.com/200?text=Cyborg",
+          "lg": "https://via.placeholder.com/300?text=Cyborg"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 178,
+      "name": "Green Arrow #178",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 179,
+      "name": "Sinestro #179",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Sinestro",
+          "md": "https://via.placeholder.com/200?text=Sinestro",
+          "lg": "https://via.placeholder.com/300?text=Sinestro"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 180,
+      "name": "Black Adam #180",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Adam",
+          "md": "https://via.placeholder.com/200?text=Black+Adam",
+          "lg": "https://via.placeholder.com/300?text=Black+Adam"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 181,
+      "name": "Firestorm #181",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Firestorm",
+          "md": "https://via.placeholder.com/200?text=Firestorm",
+          "lg": "https://via.placeholder.com/300?text=Firestorm"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 182,
+      "name": "Red Tornado #182",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Tornado",
+          "md": "https://via.placeholder.com/200?text=Red+Tornado",
+          "lg": "https://via.placeholder.com/300?text=Red+Tornado"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 183,
+      "name": "Huntress #183",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Huntress",
+          "md": "https://via.placeholder.com/200?text=Huntress",
+          "lg": "https://via.placeholder.com/300?text=Huntress"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 184,
+      "name": "Beast Boy #184",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Beast+Boy",
+          "md": "https://via.placeholder.com/200?text=Beast+Boy",
+          "lg": "https://via.placeholder.com/300?text=Beast+Boy"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 185,
+      "name": "Two-Face #185",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Two-Face",
+          "md": "https://via.placeholder.com/200?text=Two-Face",
+          "lg": "https://via.placeholder.com/300?text=Two-Face"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 186,
+      "name": "Krypto #186",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Krypto",
+          "md": "https://via.placeholder.com/200?text=Krypto",
+          "lg": "https://via.placeholder.com/300?text=Krypto"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 187,
+      "name": "Wonder Woman #187",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Wonder+Woman",
+          "md": "https://via.placeholder.com/200?text=Wonder+Woman",
+          "lg": "https://via.placeholder.com/300?text=Wonder+Woman"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 188,
+      "name": "Poison Ivy #188",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 189,
+      "name": "Scarecrow #189",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Scarecrow",
+          "md": "https://via.placeholder.com/200?text=Scarecrow",
+          "lg": "https://via.placeholder.com/300?text=Scarecrow"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 190,
+      "name": "Hawkgirl #190",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Hawkgirl",
+          "md": "https://via.placeholder.com/200?text=Hawkgirl",
+          "lg": "https://via.placeholder.com/300?text=Hawkgirl"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 191,
+      "name": "Darkseid #191",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Darkseid",
+          "md": "https://via.placeholder.com/200?text=Darkseid",
+          "lg": "https://via.placeholder.com/300?text=Darkseid"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 192,
+      "name": "Green Lantern #192",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Lantern",
+          "md": "https://via.placeholder.com/200?text=Green+Lantern",
+          "lg": "https://via.placeholder.com/300?text=Green+Lantern"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 193,
+      "name": "Aquaman #193",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Aquaman",
+          "md": "https://via.placeholder.com/200?text=Aquaman",
+          "lg": "https://via.placeholder.com/300?text=Aquaman"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 194,
+      "name": "Vandal Savage #194",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Vandal+Savage",
+          "md": "https://via.placeholder.com/200?text=Vandal+Savage",
+          "lg": "https://via.placeholder.com/300?text=Vandal+Savage"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 195,
+      "name": "Plastic Man #195",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Plastic+Man",
+          "md": "https://via.placeholder.com/200?text=Plastic+Man",
+          "lg": "https://via.placeholder.com/300?text=Plastic+Man"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 196,
+      "name": "Poison Ivy #196",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 197,
+      "name": "Two-Face #197",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Two-Face",
+          "md": "https://via.placeholder.com/200?text=Two-Face",
+          "lg": "https://via.placeholder.com/300?text=Two-Face"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 198,
+      "name": "Scarecrow #198",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Scarecrow",
+          "md": "https://via.placeholder.com/200?text=Scarecrow",
+          "lg": "https://via.placeholder.com/300?text=Scarecrow"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 199,
+      "name": "Parallax #199",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Parallax",
+          "md": "https://via.placeholder.com/200?text=Parallax",
+          "lg": "https://via.placeholder.com/300?text=Parallax"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 200,
+      "name": "Harley Quinn #200",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Harley+Quinn",
+          "md": "https://via.placeholder.com/200?text=Harley+Quinn",
+          "lg": "https://via.placeholder.com/300?text=Harley+Quinn"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 201,
+      "name": "Huntress #201",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Huntress",
+          "md": "https://via.placeholder.com/200?text=Huntress",
+          "lg": "https://via.placeholder.com/300?text=Huntress"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 202,
+      "name": "Green Arrow #202",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 203,
+      "name": "Penguin #203",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Penguin",
+          "md": "https://via.placeholder.com/200?text=Penguin",
+          "lg": "https://via.placeholder.com/300?text=Penguin"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 204,
+      "name": "The Flash #204",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=The+Flash",
+          "md": "https://via.placeholder.com/200?text=The+Flash",
+          "lg": "https://via.placeholder.com/300?text=The+Flash"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 205,
+      "name": "Amanda Waller #205",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Amanda+Waller",
+          "md": "https://via.placeholder.com/200?text=Amanda+Waller",
+          "lg": "https://via.placeholder.com/300?text=Amanda+Waller"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 206,
+      "name": "Cyborg #206",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Cyborg",
+          "md": "https://via.placeholder.com/200?text=Cyborg",
+          "lg": "https://via.placeholder.com/300?text=Cyborg"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 207,
+      "name": "Spectre #207",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Spectre",
+          "md": "https://via.placeholder.com/200?text=Spectre",
+          "lg": "https://via.placeholder.com/300?text=Spectre"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 208,
+      "name": "Atom #208",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Atom",
+          "md": "https://via.placeholder.com/200?text=Atom",
+          "lg": "https://via.placeholder.com/300?text=Atom"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 209,
+      "name": "Larfleeze #209",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Larfleeze",
+          "md": "https://via.placeholder.com/200?text=Larfleeze",
+          "lg": "https://via.placeholder.com/300?text=Larfleeze"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 210,
+      "name": "Deadshot #210",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Deadshot",
+          "md": "https://via.placeholder.com/200?text=Deadshot",
+          "lg": "https://via.placeholder.com/300?text=Deadshot"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 211,
+      "name": "Scarecrow #211",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Scarecrow",
+          "md": "https://via.placeholder.com/200?text=Scarecrow",
+          "lg": "https://via.placeholder.com/300?text=Scarecrow"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 212,
+      "name": "Dr. Fate #212",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Dr.+Fate",
+          "md": "https://via.placeholder.com/200?text=Dr.+Fate",
+          "lg": "https://via.placeholder.com/300?text=Dr.+Fate"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 213,
+      "name": "Kilowog #213",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Kilowog",
+          "md": "https://via.placeholder.com/200?text=Kilowog",
+          "lg": "https://via.placeholder.com/300?text=Kilowog"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 214,
+      "name": "Red Tornado #214",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Tornado",
+          "md": "https://via.placeholder.com/200?text=Red+Tornado",
+          "lg": "https://via.placeholder.com/300?text=Red+Tornado"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 215,
+      "name": "Green Arrow #215",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Green+Arrow",
+          "md": "https://via.placeholder.com/200?text=Green+Arrow",
+          "lg": "https://via.placeholder.com/300?text=Green+Arrow"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 216,
+      "name": "Spectre #216",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Spectre",
+          "md": "https://via.placeholder.com/200?text=Spectre",
+          "lg": "https://via.placeholder.com/300?text=Spectre"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 217,
+      "name": "Two-Face #217",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Two-Face",
+          "md": "https://via.placeholder.com/200?text=Two-Face",
+          "lg": "https://via.placeholder.com/300?text=Two-Face"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 218,
+      "name": "Superman #218",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Superman",
+          "md": "https://via.placeholder.com/200?text=Superman",
+          "lg": "https://via.placeholder.com/300?text=Superman"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 219,
+      "name": "Kilowog #219",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Kilowog",
+          "md": "https://via.placeholder.com/200?text=Kilowog",
+          "lg": "https://via.placeholder.com/300?text=Kilowog"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 220,
+      "name": "Black Lightning #220",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Black+Lightning",
+          "md": "https://via.placeholder.com/200?text=Black+Lightning",
+          "lg": "https://via.placeholder.com/300?text=Black+Lightning"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 221,
+      "name": "Booster Gold #221",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Booster+Gold",
+          "md": "https://via.placeholder.com/200?text=Booster+Gold",
+          "lg": "https://via.placeholder.com/300?text=Booster+Gold"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 222,
+      "name": "Sinestro #222",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Sinestro",
+          "md": "https://via.placeholder.com/200?text=Sinestro",
+          "lg": "https://via.placeholder.com/300?text=Sinestro"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 223,
+      "name": "Red Tornado #223",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Tornado",
+          "md": "https://via.placeholder.com/200?text=Red+Tornado",
+          "lg": "https://via.placeholder.com/300?text=Red+Tornado"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 224,
+      "name": "Huntress #224",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Huntress",
+          "md": "https://via.placeholder.com/200?text=Huntress",
+          "lg": "https://via.placeholder.com/300?text=Huntress"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 225,
+      "name": "Riddler #225",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Riddler",
+          "md": "https://via.placeholder.com/200?text=Riddler",
+          "lg": "https://via.placeholder.com/300?text=Riddler"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  },
+  {
+      "id": 226,
+      "name": "Beast Boy #226",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Beast+Boy",
+          "md": "https://via.placeholder.com/200?text=Beast+Boy",
+          "lg": "https://via.placeholder.com/300?text=Beast+Boy"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 227,
+      "name": "Plastic Man #227",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Plastic+Man",
+          "md": "https://via.placeholder.com/200?text=Plastic+Man",
+          "lg": "https://via.placeholder.com/300?text=Plastic+Man"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 228,
+      "name": "Riddler #228",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Riddler",
+          "md": "https://via.placeholder.com/200?text=Riddler",
+          "lg": "https://via.placeholder.com/300?text=Riddler"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 229,
+      "name": "Plastic Man #229",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Plastic+Man",
+          "md": "https://via.placeholder.com/200?text=Plastic+Man",
+          "lg": "https://via.placeholder.com/300?text=Plastic+Man"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 230,
+      "name": "Darkseid #230",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Darkseid",
+          "md": "https://via.placeholder.com/200?text=Darkseid",
+          "lg": "https://via.placeholder.com/300?text=Darkseid"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 231,
+      "name": "Captain Atom #231",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Captain+Atom",
+          "md": "https://via.placeholder.com/200?text=Captain+Atom",
+          "lg": "https://via.placeholder.com/300?text=Captain+Atom"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 232,
+      "name": "The Flash #232",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=The+Flash",
+          "md": "https://via.placeholder.com/200?text=The+Flash",
+          "lg": "https://via.placeholder.com/300?text=The+Flash"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 233,
+      "name": "Swamp Thing #233",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Swamp+Thing",
+          "md": "https://via.placeholder.com/200?text=Swamp+Thing",
+          "lg": "https://via.placeholder.com/300?text=Swamp+Thing"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 234,
+      "name": "Red Tornado #234",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Tornado",
+          "md": "https://via.placeholder.com/200?text=Red+Tornado",
+          "lg": "https://via.placeholder.com/300?text=Red+Tornado"
+      },
+      "alignment": "Villain",
+      "type": "Entity"
+  },
+  {
+      "id": 235,
+      "name": "Dr. Fate #235",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Dr.+Fate",
+          "md": "https://via.placeholder.com/200?text=Dr.+Fate",
+          "lg": "https://via.placeholder.com/300?text=Dr.+Fate"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 236,
+      "name": "Sinestro #236",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Sinestro",
+          "md": "https://via.placeholder.com/200?text=Sinestro",
+          "lg": "https://via.placeholder.com/300?text=Sinestro"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 237,
+      "name": "Two-Face #237",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Two-Face",
+          "md": "https://via.placeholder.com/200?text=Two-Face",
+          "lg": "https://via.placeholder.com/300?text=Two-Face"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 238,
+      "name": "Mr. Freeze #238",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Mr.+Freeze",
+          "md": "https://via.placeholder.com/200?text=Mr.+Freeze",
+          "lg": "https://via.placeholder.com/300?text=Mr.+Freeze"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 239,
+      "name": "Poison Ivy #239",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Poison+Ivy",
+          "md": "https://via.placeholder.com/200?text=Poison+Ivy",
+          "lg": "https://via.placeholder.com/300?text=Poison+Ivy"
+      },
+      "alignment": "Hero",
+      "type": "Entity"
+  },
+  {
+      "id": 240,
+      "name": "Static Shock #240",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Static+Shock",
+          "md": "https://via.placeholder.com/200?text=Static+Shock",
+          "lg": "https://via.placeholder.com/300?text=Static+Shock"
+      },
+      "alignment": "Neutral",
+      "type": "Individual"
+  },
+  {
+      "id": 241,
+      "name": "Zatanna #241",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Zatanna",
+          "md": "https://via.placeholder.com/200?text=Zatanna",
+          "lg": "https://via.placeholder.com/300?text=Zatanna"
+      },
+      "alignment": "Hero",
+      "type": "Individual"
+  },
+  {
+      "id": 242,
+      "name": "Red Tornado #242",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Red+Tornado",
+          "md": "https://via.placeholder.com/200?text=Red+Tornado",
+          "lg": "https://via.placeholder.com/300?text=Red+Tornado"
+      },
+      "alignment": "Villain",
+      "type": "Team"
+  },
+  {
+      "id": 243,
+      "name": "Beast Boy #243",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Beast+Boy",
+          "md": "https://via.placeholder.com/200?text=Beast+Boy",
+          "lg": "https://via.placeholder.com/300?text=Beast+Boy"
+      },
+      "alignment": "Hero",
+      "type": "Team"
+  },
+  {
+      "id": 244,
+      "name": "Mr. Freeze #244",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Mr.+Freeze",
+          "md": "https://via.placeholder.com/200?text=Mr.+Freeze",
+          "lg": "https://via.placeholder.com/300?text=Mr.+Freeze"
+      },
+      "alignment": "Villain",
+      "type": "Individual"
+  },
+  {
+      "id": 245,
+      "name": "Scarecrow #245",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Scarecrow",
+          "md": "https://via.placeholder.com/200?text=Scarecrow",
+          "lg": "https://via.placeholder.com/300?text=Scarecrow"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 246,
+      "name": "Superman #246",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Superman",
+          "md": "https://via.placeholder.com/200?text=Superman",
+          "lg": "https://via.placeholder.com/300?text=Superman"
+      },
+      "alignment": "Neutral",
+      "type": "Entity"
+  },
+  {
+      "id": 247,
+      "name": "Deadshot #247",
+      "images": {
+          "sm": "https://via.placeholder.com/100?text=Deadshot",
+          "md": "https://via.placeholder.com/200?text=Deadshot",
+          "lg": "https://via.placeholder.com/300?text=Deadshot"
+      },
+      "alignment": "Neutral",
+      "type": "Team"
+  }
+]

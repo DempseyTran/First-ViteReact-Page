@@ -1,0 +1,23 @@
+[
+  {
+    "image": "https://static.dc.com/2024-12/2024_11_27CreatureCommandoCP_Marquee_3x1.jpg?w=1200",
+    "title": "CREATURE COMMANDOS",
+    "subTitle": "The DCU's weirdest war heroes, the Creature Commandos are nowhere near as monstrous as those they've faced on the battlefield.",
+    "button": "GET TO KNOW THE CREATURE COMMANDOS",
+    "interval": 1500
+  },
+  {
+    "image": "https://static.dc.com/2024-12/20241203_DC_Characters_AmandaWaller3x1.jpg?w=1200",
+    "title": "AMANDA WALLER",
+    "subTitle": "If there’s one government bureaucrat who shouldn’t be messed with, it’s Amanda Waller, founder of the infamous Task Force X",
+    "button": "GET TO KNOW THE AMANDA WALLER",
+    "interval": 500
+  },
+  {
+    "image": "https://static.dc.com/2024-12/20241203_DC_Characters_Weasel3x1.jpg?w=1200",
+    "title": "WEASEL",
+    "subTitle": "A Task Force X survivor, Weasel has great agility in combat... but don’t hire him to babysit your kids.",
+    "button": "GET TO KNOW THE WEASEL",
+    "interval": 2500
+  }
+]
