@@ -1,6 +1,6 @@
 [
     {
-        "description": "",
+        "description": "Alan Scott is the first Green Lantern, a powerful protector of Earth wielding a magical ring.",
         "id": 1,
         "name": "ALAN SCOTT",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AlanScott_5fb82459209669.21120396.jpg?w=640",
@@ -8,7 +8,7 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Alfred Pennyworth is Bruce Wayne's loyal butler, serving as a mentor and close confidant to Batman.",
         "id": 2,
         "name": "ALFRED PENNYWORTH",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AlfredPennyworth_5c40ddc7b0e397.70092314.jpg?w=640",
@@ -16,15 +16,15 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Amanda Waller is the tough and resourceful leader of Task Force X, also known as the Suicide Squad.",
         "id": 3,
-        "name": "AMNDA WALLER",
+        "name": "AMANDA WALLER",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AmandaWaller_5c40df31e06e32.83836467.jpg?w=640",
         "alignment": "Neutral",
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Amethyst is the princess of Gemworld, a magical realm filled with mystical powers and fierce enemies.",
         "id": 4,
         "name": "AMETHYST",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Amethyst_5c40e299329fa8.64612837.jpg?w=640",
@@ -32,7 +32,7 @@
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Anarky is a vigilante with a deep hatred for corruption, often blurring the lines between hero and villain.",
         "id": 5,
         "name": "ANARKY",
         "images": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_Anarky_56a828beda2873.94689757.jpg?w=640",
@@ -40,7 +40,7 @@
         "type": "Entity"
     },
     {
-        "description": "",
+        "description": "The Anti-Monitor is a cosmic entity of immense power, known for bringing destruction to entire universes.",
         "id": 6,
         "name": "ANTI MONITOR",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AntiMonitor_5df04dc35f66b3.45008668.jpg?w=640",
@@ -48,7 +48,7 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Antiope is a fierce Amazonian warrior, known for her incredible combat skills and unwavering loyalty.",
         "id": 7,
         "name": "ANTIOPE",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Antiope_5efcf761a6d6c1.75705997.jpg?w=640",
@@ -56,7 +56,7 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Aquaman, the King of Atlantis, possesses superhuman strength and the ability to communicate with marine life.",
         "id": 8,
         "name": "AQUAMAN",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Aquaman_5c411a95e70ff5.50429372.jpg?w=640",
@@ -64,7 +64,7 @@
         "type": "Entity"
     },
     {
-        "description": "",
+        "description": "Ares, the God of War, thrives on conflict and chaos, often clashing with Wonder Woman and other heroes.",
         "id": 9,
         "name": "ARES",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Ares_5c40e61e645bd7.00544343.jpg?w=640",
@@ -72,7 +72,7 @@
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Arsenal, also known as Roy Harper, is a skilled archer and fighter, formerly a sidekick to Green Arrow.",
         "id": 10,
         "name": "ARSELNAL",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Arsenal_5c4112b0d08271.33719915.jpg?w=640",
@@ -80,7 +80,7 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Atlanna, Queen of Atlantis, is the mother of Aquaman and a key figure in the underwater kingdom.",
         "id": 11,
         "name": "ATLANNA",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Atlanna_5c411b2c679cb0.01941866.jpg?w=640",
@@ -88,7 +88,7 @@
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Atom, a brilliant scientist, uses advanced technology to shrink himself to subatomic sizes.",
         "id": 12,
         "name": "ATOM",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Atom_5d7845c24cf931.57331689.jpg?w=640",
@@ -96,7 +96,7 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Atom Smasher is a metahuman with the ability to alter his size and density, giving him immense strength.",
         "id": 13,
         "name": "ATOM SMASHER",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_AtomSmasher_63473c541d1d84.00880415.jpg?w=640",
@@ -104,7 +104,7 @@
         "type": "Entity"
     },
     {
-        "description": "",
+        "description": "Atrocitus is the leader of the Red Lantern Corps, fueled by rage and wielding a ring of blood energy.",
         "id": 14,
         "name": "ATROCITUS",
         "images": "https://static.dc.com/dc/files/default_images/atrocitus_192x291_53c586992f0725.03097814.jpg?w=640",
@@ -112,7 +112,7 @@
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Bane is a powerful villain known for his incredible strength and tactical intelligence, often opposing Batman.",
         "id": 15,
         "name": "BANE",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Bane_5c410f07428e44.78856363.jpg?w=640",
@@ -120,7 +120,7 @@
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Batgirl, a skilled fighter and detective, is a key ally in Batman's war on crime in Gotham City.",
         "id": 16,
         "name": "BATGIRL",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batgirl_5c410fd9aa14d0.53215721.jpg?w=640",
@@ -128,7 +128,7 @@
         "type": "Team"
     },
     {
-        "description": "",
+        "description": "Batman, the Dark Knight, is a master detective and martial artist dedicated to protecting Gotham City.",
         "id": 17,
         "name": "BATMAN",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batman_20190116_5c3fc4b40fae42.85141247.jpg?w=640",
@@ -136,7 +136,7 @@
         "type": "Entity"
     },
     {
-        "description": "",
+        "description": "Batwoman is a highly skilled vigilante, fighting crime with her wit, strength, and advanced technology.",
         "id": 18,
         "name": "BATWOMAN",
         "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_Batwoman_5c4111746bf769.13954525.jpg?w=640",
@@ -144,20 +144,19 @@
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Beast Boy has the unique ability to transform into any animal, making him a valuable member of the Teen Titans.",
         "id": 19,
         "name": "BEAST BOY",
-        "images": "",
+        "images": "https://static.dc.com/dc/files/default_images/Char_Thumb_BeastBoy_5c411282c5c040.32747717.jpg?w=640",
         "alignment": "Hero",
         "type": "Individual"
     },
     {
-        "description": "",
+        "description": "Big Barda, a warrior from Apokolips, escaped to Earth and fights alongside the New Gods for justice.",
         "id": 20,
         "name": "BIG BARDA",
-        "images": "",
+        "images": "https://static.dc.com/dc/files/default_images/ThumbChar_192x291_BirBarda_574495f48e4075.27470755.jpg?w=640",
         "alignment": "Neutral",
         "type": "Individual"
     }
-
 ]

@@ -8,7 +8,7 @@ const Suicide = ({ Characters }) => {
       </h2>
       <div className="Suicide-Container grid grid-cols-4 w-full px-40 py-8">
         {Characters.map((item) => (
-          <div className="Card-Container mx-4" key={item.id}>
+          <div className="Card-Container mx-4 cursor-pointer" key={item.id}>
             <img src={item.image} alt={item.name} />
             <h2 className="name w-full text-3xl text-center p-3 font-GretaBold">{item.name}</h2>
           </div>
