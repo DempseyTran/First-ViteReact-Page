@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;  
+    overflow: hidden;
+    opacity: 0;
+    transform: scale(0);
+    transition: opacity 1s ease, transform 1s ease;
+    height: 500px;
+}
+body.load{
+    opacity: 1;
+    transform: scale(1);
+}
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+}
+.logo img{
+    width: 80px;
+}
+.menu-icon {
+    display: flex;
+    cursor: pointer;
+    gap: 8px;
+    padding-right: 25px;
+    align-items: center;
+}
+.span{
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    gap: 5px;
+}
+.menu-icon span1 {
+    width: 30px;
+    height: 4px;
+    border-radius: 2px;
+    background-color: black;
+}
+.menu-icon span2 {
+    width: 30px;
+    height: 4px;
+    border-radius: 2px;
+    background-color: black;
+}
+.menu-icon span3 {  
+    width: 30px;
+    height: 4px;
+    border-radius: 2px;
+    background-color: black;
+}
+.close-btn{
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+.close-btn:hover, .menu-btn:hover {
+    color: #555;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.left-nav {
+    flex: 1;
+    text-align: center;
+    position: relative;
+}
+
+.hero-title {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: black;
+    position: absolute;
+    left: 100px;
+    z-index: 2;
+    top: 170px;
+}
+
+.explore {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #888;
+    position: absolute;
+    left: 170px;
+    top: 320px;
+    z-index: 2;
+}
+.nav-arrows {
+    position: absolute;
+    bottom: 10px;
+    display: flex;
+    gap: 15px;
+    z-index: 2;
+    transform: translateX(100px);
+}
+.nav-arrow {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+.character-section {
+    flex: 2;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    background-color: #c72525;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+    background: linear-gradient(to right, #901c1c, rgba(174, 30, 30, 0.866));
+}
+.character-image {
+
+    width: 600px;
+    position: absolute;
+    left: -400px;
+    top: -50px;
+}
+
+.character-info {
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-bottom: 250px;
+    margin-top: auto;
+}
+.character-info h2{
+    font-size: 40px;
+    font-weight: lighter;
+}
+.infoh2{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.character-info h3{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+.stats {
+    width: 100%;
+    display: flex;
+    gap: 100px;
+    margin: 10px 0;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.popularity{
+    transform: translateX(90px);
+}
+.strength{
+    transform: translateX(50px);
+}
+.description {
+    font-size: 20px;
+    line-height: 1.5em;
+}
+.feature-movie {
+    z-index: 2;
+    margin-left: 709px;
+    transform: translateY(-150px);
+    width: 600px;
+    height: 210px;
+    overflow: hidden;
+}
+.movie {
+    display: flex;
+    gap: 10px;  
+    transform: translateX(5px);
+    transition: 0.5s;
+}
+.movie img {
+    width: 160px;
+    height: 210px;
+    border-radius: 25px;
+    object-fit: cover ;
+    object-fit: fill;
+}
+.arrow{
+    position: absolute;
+    display: flex;
+    z-index: 2;
+    transform: translateY(-280px);
+}
+.arrow-left{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    cursor: pointer;
+    transform: translateX(650px);
+}
+.arrow-right{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    cursor: pointer;
+    transform: translateX(1280px);
+}
