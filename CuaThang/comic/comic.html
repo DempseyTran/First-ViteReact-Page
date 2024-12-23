@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DC Collectible Comics</title>
+    <link rel="stylesheet" href="comic.css" />
+  </head>
+  <body>
+    <div class="imghd">
+      <img src="./imgcmic/ngang.jpg" alt="anh" />
+    </div>
+    <div class="container">
+      <div class="filter-sidebar">
+        <input
+          type="text"
+          placeholder="Filter by Keyword"
+          class="filter-input"
+        />
+        <div class="filter-category">
+          <div class="filter-header" onclick="toggleFilter('characters')">
+            CHARACTERS <span class="toggle-icon" id="characters-toggle">+</span>
+          </div>
+          <div class="filter-content hidden" id="characters-content">
+            <label><input type="checkbox" value="Batman" /> Batman</label><br />
+            <label><input type="checkbox" value="Joker" /> Joker</label><br />
+            <label><input type="checkbox" value="Doctor" /> Doctor</label><br />
+            <label><input type="checkbox" /> Amethyst</label><br />
+            <label><input type="checkbox" /> Anarky</label><br />
+            <label><input type="checkbox" /> Anti-Monitor</label><br />
+            <label><input type="checkbox" /> Antiope</label><br />
+            <label><input type="checkbox" /> Aquaman</label><br />
+          </div>
+        </div>
+
+        <div class="filter-category">
+          <div class="filter-header" onclick="toggleFilter('series')">
+            SERIES <span class="toggle-icon" id="series-toggle">+</span>
+          </div>
+          <div class="filter-content hidden" id="series-content">
+            <label><input type="checkbox" value="KKK" /> Series 1</label><br />
+            <label><input type="checkbox" value="HHH" /> Series 2</label><br />
+            <label><input type="checkbox" value="JJJ" /> Series 3</label><br />
+          </div>
+        </div>
+
+        <div class="filter-category">
+          <div class="filter-header" onclick="toggleFilter('type')">
+            TYPE <span class="toggle-icon" id="type-toggle">+</span>
+          </div>
+          <div class="filter-content hidden" id="type-content">
+            <label><input type="checkbox" /> Type A</label><br />
+            <label><input type="checkbox" /> Type B</label><br />
+            <label><input type="checkbox" /> Type C</label><br />
+          </div>
+        </div>
+
+        <div class="filter-category">
+          <div class="filter-header" onclick="toggleFilter('imprints')">
+            IMPRINTS <span class="toggle-icon" id="imprints-toggle">+</span>
+          </div>
+          <div class="filter-content hidden" id="imprints-content">
+            <label><input type="checkbox" /> Imprint X</label><br />
+            <label><input type="checkbox" /> Imprint Y</label><br />
+            <label><input type="checkbox" /> Imprint Z</label><br />
+          </div>
+        </div>
+
+        <div class="filter-category">
+          <div class="filter-header" onclick="toggleFilter('date-range')">
+            DATE RANGE <span class="toggle-icon" id="date-range-toggle">+</span>
+          </div>
+          <div class="filter-content hidden" id="date-range-content">
+            <label><input type="checkbox" /> 2023</label><br />
+            <label><input type="checkbox" /> 2024</label><br />
+          </div>
+        </div>
+      </div>
+      <div class="comics-section">
+        <div class="comics-header">
+          <h2>COMIC</h2>
+        </div>
+        <div class="comics-grid">
+          <div class="comic" data-name="Batman" data-category="Batman">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div
+            class="comic"
+            data-name="Joker"
+            data-category="Joker"
+            data-series="KKK"
+          >
+            <img src="./imgcmic/joker.jpg" alt="Challengers of the Unknown" />
+            <p>CHALLENGERS OF THE UNKNOWN (2024) #1</p>
+          </div>
+          <div
+            class="comic"
+            data-name="Doctor"
+            data-category="Doctor"
+            data-series="KKK"
+          >
+            <img src="./imgcmic/doctor.jpg" alt="Batman '89" />
+            <p>BATMAN '89: ECHOES (2023-)</p>
+          </div>
+          <div
+            class="comic"
+            data-name="Batman"
+            data-category="Batman"
+            data-series="KKK"
+          >
+            <img src="./imgcmic/dpool.jpg" alt="World's Finest" />
+            <p>BATMAN/SUPERMAN: WORLD'S FINEST #34</p>
+          </div>
+          <div class="comic" data-name="Doctor" data-category="Doctor">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div
+            class="comic"
+            data-name="Batman"
+            data-category="Batman"
+            data-series="JJJ"
+          >
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div class="comic" data-name="Doctor" data-category="Doctor">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div
+            class="comic"
+            data-name="Doctor"
+            data-category="Doctor"
+            data-series="HHH"
+          >
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div class="comic" data-name="Joker" data-category="Joker">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div class="comic" data-name="Doctor" data-category="Doctor">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div class="comic" data-name="Joker" data-category="Joker">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+          <div class="comic" data-name="Joker" data-category="Joker">
+            <img src="./imgcmic/batman.jpg" alt="Batman: Santa Claus" />
+            <p>BATMAN - SANTA CLAUS: SILENT KNIGHT RETURNS</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="comic.js"></script>
+  </body>
+</html>
