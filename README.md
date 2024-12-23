@@ -1,8 +1,37 @@
-# React + Vite
+# Nhóm 13 - CloneTest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Hướng dẫn chạy dữ liệu
 
-Currently, two official plugins are available:
+1. **Clone repository**:
+    ```bash
+    git clone https://github.com/DempseyTran/Nh-m-13.git
+    cd Nh-m-13
+    ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Cài đặt các dependencies**:
+    ```bash
+    npm install
+    ```
+
+3. **Chạy ứng dụng**:
+    ```bash
+    npm start
+    ```
+
+4. **Mở trình duyệt và truy cập**:
+    ```
+    http://localhost:...
+    ```
+
+## Documentation đã dùng
+
+- **React**: Thư viện JavaScript để xây dựng giao diện người dùng.
+  - [React Documentation](https://reactjs.org/docs/getting-started.html)
+- **Vite**: Công cụ build nhanh cho các dự án web hiện đại.
+    - [Vite Documentation](https://vitejs.dev/guide/)
+- **Node.js**: Môi trường chạy JavaScript phía server.
+  - [Node.js Documentation](https://nodejs.org/en/docs/)
+
+## Liên hệ
+
+Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ với chúng tôi qua email: [25](mailto:25A4041500@hvnh.edu.vn)
