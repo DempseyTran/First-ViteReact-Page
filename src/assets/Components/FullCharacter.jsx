@@ -1,4 +1,5 @@
 import React from "react";
+import { CiSearch } from "react-icons/ci";
 import { FaBars, FaPlus, FaSortDown } from "react-icons/fa";
 import { IoChevronBackOutline, IoChevronForwardOutline, IoGridSharp } from "react-icons/io5";
 
@@ -7,11 +8,7 @@ const FullCharacter = ({ Data }) => {
     <div className="FullCharacter-Wrapper mx-28 h-auto flex font-GretaBold mb-28">
       <div className="Fiter-Container h-full w-[440px]">
         <div className="Input-Container w-full h-9 flex items-center border border-gray-light rounded-full px-5 py-1">
-          <img
-            src="../../public/Images/search.svg"
-            alt="Search"
-            className="w-3 h-full object-contain"
-          />
+          <CiSearch className="object-contain cursor-pointer" />
           <input
             className="rounded-full px-5 focus:outline-none"
             type="text"

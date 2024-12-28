@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='Footer w-full h-48 bg-black'>
       <div className="Logo-Container flex font-GretaSemi justify-center py-5  border-r-10 px-10">
-        <img src="../../public/Images/dc-logo-75x75_footer.avif" alt="" />
+        <img src="https://static.dc.com/2024-08/dc-logo-75x75_footer.png" alt="" />
       </div>
       <ul className="Link-Container text-white text-xl flex font-GretaSemi justify-center mb-1 cursor-pointer">
         <li className="hover:text-blue cursor-pointer border-r-2 px-6">PRIVACY POLICY</li>
