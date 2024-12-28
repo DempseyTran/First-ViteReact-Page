@@ -15,7 +15,7 @@ const Navbar = ({ isSearchVisible, toggleSearch }) => {
     <nav className="navbar fixed z-10 h-14 w-full bg-white flex justify-center items-center px-16 py-4 text-lg font-GretaSemi">
       <div className="navbar-logo mr-12">
         <img
-          src="../../public/Images/dc-logo-313x313.svg"
+          src="/public/Images/dc-logo-313x313.svg"
           alt="DC Logo"
           className="logo w-10"
         />
@@ -204,7 +204,7 @@ const Navbar = ({ isSearchVisible, toggleSearch }) => {
         <div className="Search w-4 flex justify-center items-center">
           <button className="items-center" onClick={toggleSearch}>
             <img
-              src="../../public/Images/search.svg"
+              src="/public/Images/search.svg"
               alt="Search"
               className="w-full h-full object-contain"
             />
